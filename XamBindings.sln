@@ -1,0 +1,105 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamBindings", "XamBindings\XamBindings.csproj", "{62D36C5F-64C0-4168-8DFB-67341EB3CFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Mapbox.Android.Core", "Okes.Mapbox.Android.Core\Okes.Mapbox.Android.Core.csproj", "{6E56381F-E512-4C86-97D7-0EDBBC69B3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Mapbox.Android.Gestures", "Okes.Mapbox.Android.Gestures\Okes.Mapbox.Android.Gestures.csproj", "{8B64F4B5-9D89-4541-A59E-8369816D7FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Mapbox.Android.Telemetry", "Okes.Mapbox.Android.Telemetry\Okes.Mapbox.Android.Telemetry.csproj", "{77DCEAD7-B67A-45DA-8C0D-AF6261DFBD4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Squareup.OkHttp3.OkHttp", "Okes.Squareup.OkHttp3.OkHttp\Okes.Squareup.OkHttp3.OkHttp.csproj", "{35F7E73A-5BFD-490C-A2A0-2E8EDE64FEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Square.Retrofit2", "Okes.Square.Retrofit2\Okes.Square.Retrofit2.csproj", "{EA6DFBB6-AF63-437A-9451-672395477C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Squareup.Retrofit2.Retrofit-converter", "Okes.Squareup.Retrofit2.Retrofit-converter\Okes.Squareup.Retrofit2.Retrofit-converter.csproj", "{15A43BB5-8BAB-461F-BBCA-BB2840639886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Squareup.OkHttp3.Logging-interceptor", "Okes.Squareup.OkHttp3.Logging-interceptor\Okes.Squareup.OkHttp3.Logging-interceptor.csproj", "{4C46F8D2-086C-43CF-A37B-DAA506F35ED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Mapbox.Sdk.Core", "Okes.Mapbox.Sdk.Core\Okes.Mapbox.Sdk.Core.csproj", "{015E9F6F-053D-4CDD-86AF-DCABDA1D2C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Mapbox.Sdk.Geojson", "Okes.Mapbox.Sdk.Geojson\Okes.Mapbox.Sdk.Geojson.csproj", "{77ADC4F9-601A-4EC2-8DD0-BDC2276764EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Mapbox.Sdk.Services", "Okes.Mapbox.Sdk.Services\Okes.Mapbox.Sdk.Services.csproj", "{F7E85EA0-D84D-48AF-A668-91C2B8AD94EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Mapbox.Sdk.Turf", "Okes.Mapbox.Sdk.Turf\Okes.Mapbox.Sdk.Turf.csproj", "{664CC12E-E60A-4A71-9D1B-B9079EB20FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Mapbox.Android.Navigation", "Okes.Mapbox.Android.Navigation\Okes.Mapbox.Android.Navigation.csproj", "{D7454C6C-3AF0-4AD9-B615-03AB3AC98D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okes.Mapbox.Android.Navigation.UI", "Okes.Mapbox.Android.Navigation.UI\Okes.Mapbox.Android.Navigation.UI.csproj", "{503D344F-D7ED-48D7-8227-EFDC44828EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D36C5F-64C0-4168-8DFB-67341EB3CFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D36C5F-64C0-4168-8DFB-67341EB3CFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D36C5F-64C0-4168-8DFB-67341EB3CFEC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{62D36C5F-64C0-4168-8DFB-67341EB3CFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D36C5F-64C0-4168-8DFB-67341EB3CFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D36C5F-64C0-4168-8DFB-67341EB3CFEC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6E56381F-E512-4C86-97D7-0EDBBC69B3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E56381F-E512-4C86-97D7-0EDBBC69B3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E56381F-E512-4C86-97D7-0EDBBC69B3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E56381F-E512-4C86-97D7-0EDBBC69B3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B64F4B5-9D89-4541-A59E-8369816D7FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B64F4B5-9D89-4541-A59E-8369816D7FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B64F4B5-9D89-4541-A59E-8369816D7FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B64F4B5-9D89-4541-A59E-8369816D7FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DCEAD7-B67A-45DA-8C0D-AF6261DFBD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DCEAD7-B67A-45DA-8C0D-AF6261DFBD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DCEAD7-B67A-45DA-8C0D-AF6261DFBD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DCEAD7-B67A-45DA-8C0D-AF6261DFBD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F7E73A-5BFD-490C-A2A0-2E8EDE64FEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F7E73A-5BFD-490C-A2A0-2E8EDE64FEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F7E73A-5BFD-490C-A2A0-2E8EDE64FEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F7E73A-5BFD-490C-A2A0-2E8EDE64FEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6DFBB6-AF63-437A-9451-672395477C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6DFBB6-AF63-437A-9451-672395477C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6DFBB6-AF63-437A-9451-672395477C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6DFBB6-AF63-437A-9451-672395477C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A43BB5-8BAB-461F-BBCA-BB2840639886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A43BB5-8BAB-461F-BBCA-BB2840639886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A43BB5-8BAB-461F-BBCA-BB2840639886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A43BB5-8BAB-461F-BBCA-BB2840639886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C46F8D2-086C-43CF-A37B-DAA506F35ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C46F8D2-086C-43CF-A37B-DAA506F35ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C46F8D2-086C-43CF-A37B-DAA506F35ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C46F8D2-086C-43CF-A37B-DAA506F35ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015E9F6F-053D-4CDD-86AF-DCABDA1D2C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015E9F6F-053D-4CDD-86AF-DCABDA1D2C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015E9F6F-053D-4CDD-86AF-DCABDA1D2C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015E9F6F-053D-4CDD-86AF-DCABDA1D2C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77ADC4F9-601A-4EC2-8DD0-BDC2276764EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ADC4F9-601A-4EC2-8DD0-BDC2276764EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ADC4F9-601A-4EC2-8DD0-BDC2276764EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ADC4F9-601A-4EC2-8DD0-BDC2276764EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E85EA0-D84D-48AF-A668-91C2B8AD94EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E85EA0-D84D-48AF-A668-91C2B8AD94EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E85EA0-D84D-48AF-A668-91C2B8AD94EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E85EA0-D84D-48AF-A668-91C2B8AD94EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664CC12E-E60A-4A71-9D1B-B9079EB20FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664CC12E-E60A-4A71-9D1B-B9079EB20FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664CC12E-E60A-4A71-9D1B-B9079EB20FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664CC12E-E60A-4A71-9D1B-B9079EB20FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7454C6C-3AF0-4AD9-B615-03AB3AC98D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7454C6C-3AF0-4AD9-B615-03AB3AC98D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7454C6C-3AF0-4AD9-B615-03AB3AC98D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7454C6C-3AF0-4AD9-B615-03AB3AC98D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503D344F-D7ED-48D7-8227-EFDC44828EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503D344F-D7ED-48D7-8227-EFDC44828EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503D344F-D7ED-48D7-8227-EFDC44828EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503D344F-D7ED-48D7-8227-EFDC44828EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C60E3E9E-5777-4A2B-B10A-8B2DA9722840}
+	EndGlobalSection
+EndGlobal
