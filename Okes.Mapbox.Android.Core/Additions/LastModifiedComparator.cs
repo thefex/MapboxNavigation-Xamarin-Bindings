@@ -12,16 +12,18 @@ using Android.Widget;
 using Java.Lang;
 using Java.Util;
 
-namespace Okes.Mapbox.Android.Core.Additions
+namespace Com.Mapbox.Android.Core
 {
-    public partial class LastModifiedComparator 
+    public sealed partial class FileUtils
     {
-     
-        public int Compare(Java.IO.File a, Java.IO.File b)
+        public partial class LastModifiedComparator
         {
-           return Compare(a, b);
-            
+
+            public int Compare(Java.Lang.Object a, Java.Lang.Object b)
+            {
+                return Compare(a as Java.IO.File, b as Java.IO.File);
+            }
         }
-             
     }
+   
 }

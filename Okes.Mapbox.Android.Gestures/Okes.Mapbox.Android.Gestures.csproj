@@ -13,7 +13,6 @@
     <RootNamespace>Okes.Mapbox.Android.Gestures</RootNamespace>
     <AssemblyName>Okes.Mapbox.Android.Gestures</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidClassParser>class-parse</AndroidClassParser>
     <AndroidCodegenTarget>XAJavaInterop1</AndroidCodegenTarget>
